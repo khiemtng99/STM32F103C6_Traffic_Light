@@ -1,0 +1,3 @@
+button_event.c:26:6:event_btn_1	8	static
+button_event.c:54:6:event_btn_2	8	static
+button_event.c:101:6:event_btn_3	8	static

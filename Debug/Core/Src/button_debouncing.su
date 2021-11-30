@@ -1,0 +1,4 @@
+button_debouncing.c:23:22:read_button_pin	16	static
+button_debouncing.c:32:6:button_reading	24	static
+button_debouncing.c:61:6:is_button_pressed	16	static
+button_debouncing.c:67:6:is_button_pressed_1s	16	static

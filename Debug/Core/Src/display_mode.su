@@ -1,0 +1,7 @@
+display_mode.c:22:13:traffic_light	16	static
+display_mode.c:128:6:main_init	8	static
+display_mode.c:144:6:display_mode	8	static
+display_mode.c:197:6:scan_7seg_led	8	static
+display_mode.c:206:6:begin_mode	8	static
+display_mode.c:235:6:increase_duration_value	4	static
+display_mode.c:251:6:save_selected_duration_value	4	static

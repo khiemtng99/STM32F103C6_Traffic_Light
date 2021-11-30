@@ -1,0 +1,7 @@
+led.c:18:13:display_num	16	static
+led.c:30:13:enable_7seg_led	16	static
+led.c:54:6:scan_led_buf	8	static
+led.c:61:6:display_7seg_led	16	static
+led.c:69:6:turn_on	16	static
+led.c:103:6:blink	16	static
+led.c:131:6:turn_all_off	8	static
